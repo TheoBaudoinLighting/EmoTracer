@@ -21,8 +21,3 @@ Two emotionally distant spheres, pretending it's fine:
 
 ![image](https://github.com/user-attachments/assets/c1b00616-1d49-4202-8588-1d6b65f63f59)
 
-## 🛠 How to Build
-
-```bash
-g++ -std=c++17 -O2 emotracer.cpp -o emotracer
-./emotracer
